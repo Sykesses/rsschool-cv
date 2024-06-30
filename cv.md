@@ -13,7 +13,7 @@
 > I wish to develop in IT sphere and keep up with the times.
 > Currently I work as a programming teacher for children.
 
-#### Skills
+### Skills
 
 - HTML&CSS
 - JavaScript,familiar with React,NodeJS
@@ -21,7 +21,7 @@
 - Practise expirience in Lua
 - Git
 
-##### Code Example
+### Code Example
 
 ```
 const me = {
@@ -42,12 +42,12 @@ function greet(aboutMe, mySkills) {
 greet(me, skills);
 ```
 
-###### Education
+### Education
 
 **2017-2021 Belarusian State University of Informatics&Radioelectronics with a degree in info-communications**
 ![BSUIR](/BSUIR.jpg)![FIC](/FIC.svg)
 
-###### Languages
+### Languages
 
 Russian&Belarusian - Native
 English - B2
