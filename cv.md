@@ -1,0 +1,22 @@
+#Ivan Mikitko
+
+##Contacts
+
+- **Location**: Georgia, Batumi
+- **Phone**: +375 29 108 85 92 (_Telegram_), +995 595 802 601
+- **Email**: sykesses@gmail.com
+- **GitHub**: [Sykesses](https://github.com/Sykesses)
+
+###AboutMe
+
+> A real fan of computer technologies.
+> I wish to develop in IT sphere and keep up with the times.
+> Currently I work as a programming teacher for children.
+
+####Skills
+
+- HTML&CSS
+- JavaScript,familiar with React,NodeJS
+- Familiar with Python
+- Practise expirience in Lua
+- Git
