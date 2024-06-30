@@ -41,3 +41,12 @@ function greet(aboutMe, mySkills) {
 }
 greet(me, skills);
 ```
+
+######Education
+
+**2017-2021 Belarusian State University of Informatics&Radioelectronics with a degree in info-communications**
+![BSUIR](/BSUIR.jpg)![FIC](/FIC.svg)
+
+#######Languages
+Russian&Belarusian - Native
+English - B2
