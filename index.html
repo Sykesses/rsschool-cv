@@ -3,7 +3,102 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title>
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/img/me.ico" />
   </head>
-  <body></body>
+  <body>
+    <header class = "header">
+      <div class="container">
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+            <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+            <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+            <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+            <li class="nav-item"><a href="#project" class="nav-link">Project</a></li>
+            <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+            <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class = "main">
+      <div class="main-container">
+        <section class="section" id="profile">
+          <h1>Ivan Mikitko</h1>
+        </section>
+        <section class="section" id="#contacts">
+          <h2>
+            Contacts
+            <ul class="nav-list">
+              <li class="nav-item">Location: Georgia, Batumi</li>
+              <li class="nav-item">Telegram:<a href="https://web.telegram.org/k/#@romeo_by0" class="nav-link">@romeo_by0</a></li>
+              <li class="nav-item">Email:<a href="mailto:sykesses@gmail.com" class="nav-link">sykesses@gmail.com</a></li>
+              <li class="nav-item">GitHub<a href="https://github.com/Sykesses" class="nav-link">Sykesses</a></li>
+            </ul>
+          </h2>
+        </section>
+        <section class="section" id="#summary">
+          <h2>
+            <span>Summary</span>
+            <span> A real fan of computer technologies. I wish to develop in IT sphere and keep up with the times. Currently I work as a programming teacher for children, but my goal is to learn a pure JavaScript at a good level and learn the React library. I will be glad to join the creation of open source projects. I would like to work under the guidance of an experienced developer to gain practical experience.</span>
+          </h2>
+        </section>
+        <section class="section" id="#skills">
+          <h2>
+            <ul>
+              <li>- HTML&CSS</li>
+              <li>- JavaScript,familiar with React,NodeJS</li>
+              <li>- Familiar with Python</li>
+              <li>- Practise expirience in Lua</li>
+              <li>- Git, GitHub</li>
+            </ul>
+          </h2>
+        </section>
+        <section class="section" id="#code">
+          <h2>
+            Code Example
+            <pre>
+              const me = {
+                firstName: 'Ivan',
+                lastName: 'Mikitka',
+                age: 24,
+                location: 'Batumi, Georgia'
+              };
+              const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'Python'];
+              function greet(aboutMe, mySkills) {
+                console.log(`My name, ${aboutMe.firstName}!`);
+                console.log(`My lastname, ${aboutMe.lastName}!`);
+                console.log(`I'm ${aboutMe.age} old`);
+                console.log(`At currently moment I'm live in ${aboutMe.location}`);
+                console.log(`My skills are:`);
+                mySkills.forEach(skill => console.log(skill));
+              }
+              greet(me, skills);
+            </pre>
+          </h2>
+        </section>
+        <section class="section" id="#project">
+          <h2>
+            Full realised <a href="https://github.com/Sykesses/App-with-Auth">app</a> with authification on firebase 
+          </h2>
+        </section>
+        <section class="section" id="#education">
+          <h2>
+            2017-2021 Belarusian State University of Informatics&Radioelectronics with a degree in info-communications
+          </h2>
+        </section>
+        <section class="section" id="#english">
+          <h2>
+            English
+            <span>English - B2-Upper-Intermediate</span>
+          </h2>
+        </section>
+      </div>
+    </main>
+    <footer class = "footer">
+      <div class="container"></div>
+    </footer>
+  </body>
 </html>
