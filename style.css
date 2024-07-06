@@ -70,6 +70,18 @@ h2 {
   font-family:'Times New Roman', Times, serif
 }
 
+.section-con-ski-sum-code{
+  display: flex;
+}
+
+.section-con-ski{
+width: 50%;
+}
+
+.section-sum-code{
+width: 50%;
+}
+
 .nav-list {
   display: flex;
   justify-content: flex-end;
