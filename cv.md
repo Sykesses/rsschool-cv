@@ -9,9 +9,9 @@
 
 ### AboutMe
 
-> A real fan of computer technologies.
-> I wish to develop in IT sphere and keep up with the times.
-> Currently I work as a programming teacher for children.
+&gt; A real fan of computer technologies.
+&gt; I wish to develop in IT sphere and keep up with the times.
+&gt; Currently I work as a programming teacher for children.
 
 ### Skills
 
