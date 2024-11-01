@@ -15,7 +15,7 @@
 
 ### Skills
 
-- HTML&CSS
+- HTML&amp;CSS
 - JavaScript,familiar with React,NodeJS
 - Familiar with Python
 - Practise expirience in Lua
@@ -37,17 +37,17 @@ function greet(aboutMe, mySkills) {
     console.log(`I'm ${aboutMe.age} old`);
     console.log(`At currently moment I'm live in ${aboutMe.location}`);
     console.log(`My skills are:`);
-    mySkills.forEach(skill => console.log(skill));
+    mySkills.forEach(skill =&gt; console.log(skill));
 }
 greet(me, skills);
 ```
 
 ### Education
 
-**2017-2021 Belarusian State University of Informatics&Radioelectronics _with a degree in info-communications_**
+**2017-2021 Belarusian State University of Informatics&amp;Radioelectronics _with a degree in info-communications_**
 ![BSUIR](/BSUIR.jpg)![FIC](/FIC.svg)
 
 ### Languages
 
-Russian&Belarusian - Native ||
+Russian&amp;Belarusian - Native ||
 English - B2
